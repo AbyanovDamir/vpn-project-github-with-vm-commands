@@ -1,5 +1,9 @@
 # VPN OAuth Lab: WireGuard + многостраничное веб-приложение + OAuth 2.0
 
+Репозиторий проекта: <https://github.com/AbyanovDamir/vpn-project-github-with-vm-commands>
+
+README на GitHub: <https://github.com/AbyanovDamir/vpn-project-github-with-vm-commands/blob/main/README.md>
+
 Готовый учебный проект для двух Ubuntu-машин:
 
 - `wg-server-damir`, пользователь `damir1` — WireGuard-сервер, веб-приложение, OAuth-сервер и firewall;
